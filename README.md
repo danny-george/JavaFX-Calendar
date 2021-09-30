@@ -1,16 +1,11 @@
 # JavaFX-Calendar
 A simple calendar application made with JavaFX 11.0.2
 
-Features:
-
+## Features:
 Event creating, editing, removing, and displaying
-
 Error handling on invalid event creation or editing
-
 Month by month viewing
-
 Current day highlighting
-
 Ability to jump to current month
 
 This application needs to be run through a terminal.
