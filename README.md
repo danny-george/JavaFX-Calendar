@@ -1,6 +1,7 @@
 # JavaFX-Calendar
-A simple calendar application made with JavaFX
+A simple calendar application made with JavaFX 11.0.2
 
 This application needs to be run through a terminal.
-Below is the framework for the code that needs to be executed:
+I am currently in the process of refining this GitHub, but it should be able to be run at the moment.
 
+NOTE: I am still in the process of implementing certain features.
